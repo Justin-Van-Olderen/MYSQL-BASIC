@@ -17,4 +17,4 @@ SELECT `country` FROM `jaar2016` WHERE score=<'5'
 -- Opdracht 9
 SELECT `score` FROM `jaar2015` WHERE country='Ierland'
 -- Opdracht 10
-SELECT `country` FROM `jaar2016` WHERE region='latin america * Caribian sea'
+SELECT * FROM `jaar2016` WHERE region='Latin America and Caribbean'
